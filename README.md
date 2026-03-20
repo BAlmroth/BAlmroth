@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi, I'm Benita 👋
 
 **I'm a web development student at Yrgo in Gothenburg, Sweden** 
 
 Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027** 
+
+</div>
 
 ---
 
