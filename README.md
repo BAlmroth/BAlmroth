@@ -13,7 +13,7 @@ Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027**
 ### About me
 - 🎨 Art lover (traditional, digital & 3D) who accidentally fell in love with code
 - 🎮 Spends way too much time playing video games (I call it research)
-- 🏗️ Enjoys structured architecture, iterative development and coopiration
+- 🏗️ Enjoys structured architecture, iterative development and cooperation
 - 💬 Thrives in teams where people learn and grow together
 
 ---
