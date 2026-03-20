@@ -61,9 +61,12 @@ Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027**
 
 ---
 
-### 📬 Get in touch
+### Get in touch
 
+####LinkedIn####
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/benita-almroth-7a33ba369)
+
+####Mail:#### Benita.almroth@hotmail.com
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Benita.almroth@hotmail.com)
 
 ---
