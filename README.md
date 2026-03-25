@@ -56,8 +56,8 @@ Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027**
 
 **[What-the-GIF?](https://github.com/BAlmroth/what-the-GIF)** — Fullstack Node.js/Express app that converts YouTube videos into GIFs using yt-dlp and FFmpeg. Cloudinary for storage, MongoDB/Mongoose for metadata. Deployed on Heroku. · [Live demo →](https://what-the-gifs-6c48b8a47896.herokuapp.com/)
  
-**[RetroTech Admin](https://github.com/BAlmroth/retrotech)** — Laravel-based admin system with full CRUD, authentication, filtering, sorting and pagination. Accessibility-adapted with custom error pages, factories and seeders. · [Live demo →](https://retrotech-production.up.railway.app/) *(demo login: admin@retrotech.se / 123)*
-> ⚠️ *Note: The Retrotech live demo may experience slow loading times — currently being investigated.*
+**[RetroTech Admin](https://github.com/BAlmroth/retrotech)** — Laravel-based admin system with full CRUD, authentication, filtering, sorting and pagination. Accessibility-adapted with custom error pages, factories and seeders.
+
 
 
 ---
