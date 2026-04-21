@@ -11,7 +11,7 @@ Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027**
 ---
 
 ### About me
-- 🎨 Art lover (traditional, digital & 3D) who accidentally fell in love with code
+- 🎨 Art lover (traditional, digital & 3D)
 - 🎮 Spends way too much time playing video games (I call it research)
 - 🏗️ Enjoys structured architecture, iterative development and cooperation
 - 💬 Thrives in teams where people learn and grow together
@@ -44,11 +44,11 @@ Currently looking for an internship (LIA) **Nov 23, 2026 – May 28, 2027**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 **Yet to come**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
